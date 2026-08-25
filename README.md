@@ -36,7 +36,7 @@ termux-setup-storage
 pkg update -y && pkg upgrade -y
 pkg install git nodejs -y
 git clone https://github.com/medtarvip/Ht
-cd Pomni-AI
+cd Ht
 npm install
 npm start
 ```
