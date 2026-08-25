@@ -1,7 +1,7 @@
 # Ht- WhatsApp Bot
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e2/21/20/e221203f319df949ee65585a657501a2.jpg" alt="IMAGE" width="500"/>
+  <img src="https://cdn.phototourl.com/free/2026-08-25-28312268-4aea-4cc2-9c7e-bf74877de3fd.jpg" alt="IMAGE" width="500"/>
   
   [![GitHub](https://img.shields.io/badge/GitHub-MEDTAR-blue?style=for-the-badge&logo=github)](https://github.com/medtarvip)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Owner-green?style=for-the-badge&logo=whatsapp)](https://wa.me/22242203253)
