@@ -5,17 +5,17 @@ import sub from './sub.js';
 
 /* =========== Client ========== */
 const client = new Client({
-  phoneNumber: '967735706688', // Bot number
+  phoneNumber: 'رقم الربط هنا', // Bot number
   prefix: [".", "/", "!"],
   fromMe: null, 
   owners: [
-  // Owner 1
+  // المطور 1
     { name: "🎭𝐌𝐄𝐃 𝐓𝐀𝐑🎭", lid: "247579682029763@lid", jid: "22242203253@s.whatsapp.net" },
-  // Owner 2
+  // المطور 2
     { name: "🎭𝐌𝐄𝐃 𝐓𝐀𝐑🎭", lid: "221307316789354@lid", jid: "967735686159@s.whatsapp.net" },
-  // Owner 3
+  // المطور 3
     { name: "🎭𝐌𝐄𝐃 𝐓𝐀𝐑🎭", jid: "22242203253@s.whatsapp.net", lid: "50414477168824@lid" },
-  // Owner 4 
+  // المطور 4 
    { name: "🎭𝐌𝐄𝐃 𝐓𝐀𝐑🎭", jid: "967735686159@s.whatsapp.net", lid: "51664513925368@lid" }
   ],
   settings: { noWelcome: false },
