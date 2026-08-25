@@ -1,9 +1,9 @@
-# ✨ Pomni AI- WhatsApp Bot
+# Ht- WhatsApp Bot
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/e2/21/20/e221203f319df949ee65585a657501a2.jpg" alt="IMAGE" width="500"/>
   
-  [![GitHub](https://img.shields.io/badge/GitHub-VENi-blue?style=for-the-badge&logo=github)](https://github.com/medtarvip)
+  [![GitHub](https://img.shields.io/badge/GitHub-MEDTAR-blue?style=for-the-badge&logo=github)](https://github.com/medtarvip)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Owner-green?style=for-the-badge&logo=whatsapp)](https://wa.me/22242203253)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-orange?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaQim2bAu3aPsRVaDq3v)
  
@@ -78,8 +78,8 @@ npm start
 
 <div align="center">
 
-**Made with ❤️ by [medtar Owner](https://github.com/deveni0)**
+**Made with ❤️ by [medtar Owner](https://github.com/medtarvip)**
 
-**© 2026 Pomni AI- All Rights Reserved**
+**© 2026 Ht All Rights Reserved**
 
 </div>
