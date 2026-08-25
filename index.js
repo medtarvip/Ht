@@ -37,7 +37,7 @@ config.info = {
   nameChannel: "✨️𝐊𝐀𝐈𝐓𝐎 𝐊𝐈𝐃 𝐁𝐎𝐓✨️", 
   idChannel: "120363225356834044@newsletter",
   urls: {
-    repo: "https://github.com/deveni0/Pomni-AI",
+    repo: "https://github.com/medtarvip/Ht",
     api: "https://emam-api.web.id",
     channel: "https://whatsapp.com/channel/0029VbCSYLtBqbrIKRmDdc3F"
   },
