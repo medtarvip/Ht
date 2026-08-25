@@ -35,7 +35,7 @@
 termux-setup-storage
 pkg update -y && pkg upgrade -y
 pkg install git nodejs -y
-git clone https://github.com/deveni0/Pomni-AI.git
+git clone https://github.com/medtarvip/Ht
 cd Pomni-AI
 npm install
 npm start
@@ -69,7 +69,7 @@ npm start
 
 # 👤 support
 
-- Owner: [click](https://wa.me/201554582851)
+- Owner: [click](https://wa.me/22242203253)
 - Group: [Join here](https://chat.whatsapp.com/BqNmpkndDplLaJVigfSi5D)
 - Community: [Join here](https://chat.whatsapp.com/BuzSrIJOV7S881JMqu8blX)
 
@@ -78,7 +78,7 @@ npm start
 
 <div align="center">
 
-**Made with ❤️ by [VENi Owner](https://github.com/deveni0)**
+**Made with ❤️ by [medtar Owner](https://github.com/deveni0)**
 
 **© 2026 Pomni AI- All Rights Reserved**
 
